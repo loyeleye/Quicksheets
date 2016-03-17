@@ -1,0 +1,15 @@
+<Settings>
+	<Required>
+		<LastName></LastName>
+	</Required>
+	<Default>
+		<Customer>AIM</Customer>
+		<Project></Project>
+		<Name></Name>
+		<Task></Task>
+		<Jira></Jira>
+		<FMCCPLR></FMCCPLR>
+		<RFC></RFC>
+		<Hours></Hours>
+	</Default>
+</Settings>

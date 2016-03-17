@@ -1,0 +1,14 @@
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\bin\Debug\DoMyTimesheet.exe.config
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\bin\Debug\DoMyTimesheet.exe
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\bin\Debug\DoMyTimesheet.pdb
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\bin\Debug\EPPlus.dll
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\bin\Debug\EPPlus.xml
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\obj\Debug\DoMyTimesheet.DeleteDialog.resources
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\obj\Debug\DoMyTimesheet.Quicksheets.resources
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\obj\Debug\DoMyTimesheet.SetDateForm.resources
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\obj\Debug\DoMyTimesheet.Properties.Resources.resources
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\obj\Debug\DoMyTimesheet.ShowEntry.resources
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\obj\Debug\Quicksheets XL.csproj.GenerateResource.Cache
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\obj\Debug\DoMyTimesheet.exe
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\obj\Debug\DoMyTimesheet.pdb
+C:\Users\Oladipo\Documents\Visual Studio 2015\Projects\DoMyTimesheet\DoMyTimesheet\obj\Debug\Quicksheets XL.csprojResolveAssemblyReference.cache

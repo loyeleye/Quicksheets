@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <Required>
+    <LastName>Oyeleye</LastName>
+  </Required>
+  <Default>
+    <Customer>AIM</Customer>
+    <Project>Production Support</Project>
+    <Name>Ladi Oyeleye</Name>
+    <Task></Task>
+    <Jira></Jira>
+    <FMCCPLR></FMCCPLR>
+    <RFC></RFC>
+    <Hours></Hours>
+  </Default>
+</Settings>
+

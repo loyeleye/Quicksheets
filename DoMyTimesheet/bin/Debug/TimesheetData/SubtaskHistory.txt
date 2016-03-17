@@ -1,0 +1,6 @@
+Development
+Analysis
+Code Review
+Testing
+Documentation
+Meeting
